@@ -8,6 +8,11 @@
 
 }
 
+h1{
+text-align:center;
+    color:blueviolet;
+    text-decoration:underline;
+}
 .display{
     padding: 10px;
 }
